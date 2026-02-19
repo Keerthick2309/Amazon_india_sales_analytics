@@ -9,4 +9,4 @@ Data cleaning and EDA are done.
 - Financial analytics for revenue management and forecasting
 
 
-NOTE: Due to large file dataset is not included
+NOTE: Due to large file datasets are not included
